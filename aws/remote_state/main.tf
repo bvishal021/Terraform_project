@@ -5,8 +5,6 @@
 # ----------------------------------------------------------------------------------------------------------------------
 # REQUIRE A SPECIFIC TERRAFORM VERSION OR HIGHER
 # This module has been updated with 0.12 syntax, which means it is no longer compatible with any versions below 0.12.
-# This module is forked from https://github.com/gruntwork-io/intro-to-terraform/tree/master/s3-backend
-# ----------------------------------------------------------------------------------------------------------------------
 
 terraform {
   required_version = ">= 0.12"
