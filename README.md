@@ -8,4 +8,3 @@
 ![Ideal Terraform Setup](images/terraform_8.png)
 ![Modules in Terraform](images/terraform_9.png)
 ![Problems with Terraform](images/terraform_10.png)
-
